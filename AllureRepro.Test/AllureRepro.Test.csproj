@@ -10,7 +10,7 @@
 
     <ItemGroup>
         <PackageReference Include="Allure.NUnit" Version="2.10.0"/>
-        <PackageReference Include="Allure.NUnit" Version="2.9.5-preview.1"/>
+        <!-- <PackageReference Include="Allure.NUnit" Version="2.9.5-preview.1"/> -->
         <PackageReference Include="Bogus" Version="34.0.2"/>
         <PackageReference Include="Dodo.Primitives" Version="2.0.1"/>
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.3.2"/>
